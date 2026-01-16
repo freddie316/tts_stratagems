@@ -15,7 +15,7 @@ All the stratagems accessible through the Tesseract in TTS are stored in this re
 ### How To Contribute
 
 1. Fork this repository
-2. Obtain new or edited cards from game-datacards.eu
+2. Obtain new or edited cards from [game-datacards.eu](game-datacards.eu)
 3. Place the card image .png files into the relevent folders (edition -> faction -> detachment)
 4. Submit a pull request from your fork to this repository.
 5. Once accepted, your cards will be immediately available through the Tesseract
